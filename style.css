@@ -1,0 +1,14 @@
+#square{
+    width:200px;
+    height:200px;
+    background-color:red;
+    position:absolute;
+    transition:width 2s linear, background-color 2s linear;
+
+}
+
+.newstyle{
+    width:400px !important;
+    background-color:green !important;
+
+}
